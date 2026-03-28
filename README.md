@@ -73,7 +73,7 @@ All files are kept in ONE flat folder for simplicity. No subfolders needed.
 |model.pkl|Saved trained model (created after running train\_model.py)|
 |label\_encoder.pkl|Saved LabelEncoder for decoding predictions|
 |symptoms\_list.pkl|Saved ordered list of all symptom features|
-|README.docx|This documentation file|
+|README.md|This documentation file|
 
 # **6. Setup & Run Instructions**
 ## **Step 1 — Install Python & Libraries**
